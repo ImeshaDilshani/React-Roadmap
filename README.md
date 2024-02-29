@@ -46,6 +46,7 @@ npm install -g create-react-app
 ## Resources
 - React Documentation
 - React Community
+- W3 React [Tutorial](https://www.w3schools.com/react/)
 
 ## Contributing
 Contributions are welcome! Please read our contributing guidelines before getting started.
