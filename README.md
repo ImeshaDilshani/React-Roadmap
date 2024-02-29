@@ -28,3 +28,27 @@ Then, install React and create-react-app by running the following commands:
 
 ```bash
 npm install -g create-react-app
+```
+## Roadmap
+- Introduction to React
+- JSX and Rendering Elements
+- Components and Props
+- State and Lifecycle
+- Handling Events
+- Conditional Rendering
+- Lists and Keys
+- Forms
+- Lifting State Up
+- Composition vs Inheritance
+- Thinking in React
+- Advanced Concepts
+  
+## Resources
+- React Documentation
+- React Community
+
+## Contributing
+Contributions are welcome! Please read our contributing guidelines before getting started.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
